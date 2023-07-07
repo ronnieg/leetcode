@@ -18,7 +18,7 @@
 
 ## Algorithms
 
-- [Array](./Algorithms and Data Structures/Array.md) / [Solutions](#array)
+- [Array](Algorithms_and_Data_Structures/Array.md) / [Solutions](#array)
 
 ---
 
