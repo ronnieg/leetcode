@@ -24,9 +24,9 @@
 
 ## Array
 
-| #  | Title                                                                        | Solution                        | Difficulty | Tag            | Note                                                                                                                 | 
-|----|------------------------------------------------------------------------------|---------------------------------|------------|----------------|----------------------------------------------------------------------------------------------------------------------|
-| 1  | [1. Two Sum](https://leetcode.com/problems/two-sum/description/)             | [Python](./Python/1-two-sum.py) | Easy       | Array          |                                                                                                                      |
+| #  | Title                                                                                                                     | Solution                                    | Difficulty | Tag            | Note                                                                                                                 | 
+|----|---------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|------------|----------------|----------------------------------------------------------------------------------------------------------------------|
+| 1  | [1. Two Sum](https://leetcode.com/problems/two-sum/description/)                                                          | [Python](./Python/1-two-sum.py)             | Easy       | Array          |                                                                                                                      |
 | 88 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/?envType=study-plan-v2&envId=top-interview-150) | [Python](./Python/88-merge-sorted-array.py) | Easy       | Array / String | [Top Interview 150](https://leetcode.com/problems/merge-sorted-array/?envType=study-plan-v2&envId=top-interview-150) |
 
 <br/>
